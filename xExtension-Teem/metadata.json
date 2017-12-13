@@ -1,0 +1,8 @@
+{
+	"name": "Teem Video Feed",
+	"author": "Kevin Papst",
+	"description": "Embed video from JOINTHETEEM inside article content.",
+	"version": 0.1,
+	"entrypoint": "Teem",
+	"type": "system"
+}
