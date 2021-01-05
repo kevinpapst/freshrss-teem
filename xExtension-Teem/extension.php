@@ -16,6 +16,16 @@ class TeemExtension extends Minz_Extension
      */
     protected $showContent = false;
 
+    public function install()
+    {
+        return true;
+    }
+
+    public function uninstall()
+    {
+        return true;
+    }
+
     /**
      * Initialize this extension
      */
